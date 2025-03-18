@@ -1,7 +1,7 @@
 #MEU PORTIFÓLIO
 
-##Sobre mim
+##Sobre mim:
 Sou um desenvolvedor iniciante em programação e na área de tecnologia. Estou atualmente estudando C++ e SQL.
 
-##Contato
+##Contato:
 -Email:ccarlosdanielsilvaa@gmail.com
